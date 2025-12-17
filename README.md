@@ -12,4 +12,10 @@ This is everything in my project for DSE203.
 
 ![](https://github.com/cyl2536/DSE203-Food-Business-Ecosystem-Knowledge-Graph-Project/blob/main/Screenshot%202025-12-16%20220227.png)
 
-![]()
+![](https://github.com/cyl2536/DSE203-Food-Business-Ecosystem-Knowledge-Graph-Project/blob/main/Screenshot%202025-12-16%20220244.png)
+
+![](https://github.com/cyl2536/DSE203-Food-Business-Ecosystem-Knowledge-Graph-Project/blob/main/Screenshot%202025-12-16%20220258.png)
+
+![](https://github.com/cyl2536/DSE203-Food-Business-Ecosystem-Knowledge-Graph-Project/blob/main/Screenshot%202025-12-16%20220311.png)
+
+![](https://github.com/cyl2536/DSE203-Food-Business-Ecosystem-Knowledge-Graph-Project/blob/main/Screenshot%202025-12-16%20220331.png)
